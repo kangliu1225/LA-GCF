@@ -1,3 +1,3 @@
 # LA-GCF
 
-Work under submission 
+A work under submission.
