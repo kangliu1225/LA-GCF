@@ -1,6 +1,6 @@
 # LA-GCF
 
-A work under submission.
+A work under review.
 
 Manuscript No: ESWA-D-26-16933
 
